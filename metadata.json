@@ -1,0 +1,8 @@
+{
+  "name": "CodeHost - Web Hosting and Coding System",
+  "description": "A web hosting dashboard and live code environment simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
